@@ -177,8 +177,9 @@ text-align: center;
     height: 52px;
     display: flex;
     align-items: center;
-
 }
-
+.footer-container{
+    display: flex;
+}
 
 
