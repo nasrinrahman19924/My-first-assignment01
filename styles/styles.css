@@ -52,7 +52,7 @@ nav .menu a{
     color: #000000;
     text-decoration: none;
 }
-#bannar{
+#banner{
     border: 1px solid blue;
     width: 1600px;
     height: 674px;
@@ -64,7 +64,29 @@ nav .menu a{
       align-items: center;
       margin:0 auto ;  
    }
-#bannar .bannar-contant{
-border: 1px solid red;
+#banner .banner-contant button{
+/* border: 2px solid red; */
+width: 229px;
+height: 35px;
+color: #FFFFFF;
+border-radius: 1000px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 6px;
+padding: 8px 12px 8px 12px;
+color: #30B868;
+margin: 0 auto;
+}
+#banner .banner-contant h1{
+    font-size: 72px;
+    font-weight: 700px;
+    color: #30B868;
+}
 
+#banner .banner-contant p{
+    font-size: 18px;
+    font-weight: 400px;
+    color: #FFFFFF;
 }
