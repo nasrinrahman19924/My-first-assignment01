@@ -90,3 +90,17 @@ margin: 0 auto;
     font-weight: 400px;
     color: #FFFFFF;
 }
+#skills{
+    border: 2px solid blue;
+    width: 1600px;
+    height: 448px;
+    margin: 0 auto;
+    text-align: center;
+}
+#skills.skills-container{
+    width: 1360px;
+    max-width: 1360px;
+} 
+#skills.skills-container.section-heading{
+   padding: 120px;
+}
